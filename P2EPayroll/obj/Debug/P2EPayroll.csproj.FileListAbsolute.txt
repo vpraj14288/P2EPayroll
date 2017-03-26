@@ -1,0 +1,188 @@
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\csc.exe
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\System.Collections.Immutable.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\System.Reflection.Metadata.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\vbc.exe
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\VBCSCompiler.exe
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\roslyn\VBCSCompiler.exe.config
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\P2EPayroll.dll.config
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\P2EPayroll.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\P2EPayroll.pdb
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Antlr3.Runtime.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Dapper.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Elmah.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.Web.Infrastructure.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Newtonsoft.Json.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Net.Http.Formatting.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Cors.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Helpers.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Http.Cors.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Http.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Http.WebHost.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Mvc.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Optimization.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Razor.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Webpages.Deployment.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Webpages.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Webpages.Razor.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Unity.Mvc5.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Unity.WebApi.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\WebGrease.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Antlr3.Runtime.pdb
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Dapper.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\Newtonsoft.Json.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Net.Http.Formatting.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Http.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Http.Cors.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Http.WebHost.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Optimization.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Razor.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Webpages.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Webpages.Deployment.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Webpages.Razor.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Helpers.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\bin\System.Web.Mvc.xml
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\obj\Debug\P2EPayroll.dll
+F:\halaKIWI - Copy\halaKIWI\halaKIWI\obj\Debug\P2EPayroll.pdb
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\csc.exe
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\System.Collections.Immutable.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\System.Reflection.Metadata.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\vbc.exe
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\VBCSCompiler.exe
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\roslyn\VBCSCompiler.exe.config
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\P2EPayroll.dll.config
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\P2EPayroll.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\P2EPayroll.pdb
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Antlr3.Runtime.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Dapper.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Elmah.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.Practices.ServiceLocation.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.Practices.Unity.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.Web.Infrastructure.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Newtonsoft.Json.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Net.Http.Formatting.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Cors.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Helpers.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Http.Cors.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Http.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Http.WebHost.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Mvc.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Optimization.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Razor.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Webpages.Deployment.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Webpages.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Webpages.Razor.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Unity.Mvc5.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Unity.WebApi.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\WebGrease.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Antlr3.Runtime.pdb
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Dapper.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.Practices.ServiceLocation.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.Practices.Unity.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\Newtonsoft.Json.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Net.Http.Formatting.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Http.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Http.Cors.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Http.WebHost.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Optimization.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Razor.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Webpages.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Webpages.Deployment.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Webpages.Razor.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Helpers.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\bin\System.Web.Mvc.xml
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\obj\Debug\P2EPayroll.csprojResolveAssemblyReference.cache
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\obj\Debug\P2EPayroll.dll
+F:\halaKIWI - Copy\halaKIWI\P2EPayroll\obj\Debug\P2EPayroll.pdb
+F:\P2EPayroll\P2EPayroll\obj\Debug\P2EPayroll.csprojResolveAssemblyReference.cache
+F:\P2EPayroll\P2EPayroll\obj\Debug\P2EPayroll.dll
+F:\P2EPayroll\P2EPayroll\obj\Debug\P2EPayroll.pdb
+F:\P2EPayroll\P2EPayroll\bin\roslyn\csc.exe
+F:\P2EPayroll\P2EPayroll\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\P2EPayroll\P2EPayroll\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\P2EPayroll\P2EPayroll\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\P2EPayroll\P2EPayroll\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\P2EPayroll\P2EPayroll\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\P2EPayroll\P2EPayroll\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\P2EPayroll\P2EPayroll\bin\roslyn\System.Collections.Immutable.dll
+F:\P2EPayroll\P2EPayroll\bin\roslyn\System.Reflection.Metadata.dll
+F:\P2EPayroll\P2EPayroll\bin\roslyn\vbc.exe
+F:\P2EPayroll\P2EPayroll\bin\roslyn\VBCSCompiler.exe
+F:\P2EPayroll\P2EPayroll\bin\roslyn\VBCSCompiler.exe.config
+F:\P2EPayroll\P2EPayroll\bin\P2EPayroll.dll.config
+F:\P2EPayroll\P2EPayroll\bin\P2EPayroll.dll
+F:\P2EPayroll\P2EPayroll\bin\P2EPayroll.pdb
+F:\P2EPayroll\P2EPayroll\bin\Antlr3.Runtime.dll
+F:\P2EPayroll\P2EPayroll\bin\Dapper.dll
+F:\P2EPayroll\P2EPayroll\bin\Elmah.dll
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.Practices.ServiceLocation.dll
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.Practices.Unity.dll
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.Web.Infrastructure.dll
+F:\P2EPayroll\P2EPayroll\bin\Newtonsoft.Json.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Net.Http.Formatting.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Cors.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Helpers.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Http.Cors.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Http.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Http.WebHost.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Mvc.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Optimization.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Razor.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Webpages.Deployment.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Webpages.dll
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Webpages.Razor.dll
+F:\P2EPayroll\P2EPayroll\bin\Unity.Mvc5.dll
+F:\P2EPayroll\P2EPayroll\bin\Unity.WebApi.dll
+F:\P2EPayroll\P2EPayroll\bin\WebGrease.dll
+F:\P2EPayroll\P2EPayroll\bin\Antlr3.Runtime.pdb
+F:\P2EPayroll\P2EPayroll\bin\Dapper.xml
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.Practices.ServiceLocation.xml
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.Practices.Unity.xml
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\P2EPayroll\P2EPayroll\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\P2EPayroll\P2EPayroll\bin\Newtonsoft.Json.xml
+F:\P2EPayroll\P2EPayroll\bin\System.Net.Http.Formatting.xml
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Http.xml
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Http.Cors.xml
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Http.WebHost.xml
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Optimization.xml
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Razor.xml
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Webpages.xml
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Webpages.Deployment.xml
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Webpages.Razor.xml
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Helpers.xml
+F:\P2EPayroll\P2EPayroll\bin\System.Web.Mvc.xml

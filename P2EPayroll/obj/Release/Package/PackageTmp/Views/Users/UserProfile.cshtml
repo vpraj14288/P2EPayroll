@@ -1,0 +1,206 @@
+﻿
+@{
+    ViewBag.Title = "User Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Scripts.Render("~/KiwiScripts/UserProfilejs")
+<div class="inner-right user-detailspage">
+    <input type="text" style="display:none;" id="txtRole" value="@HttpContext.Current.Session["RoleID"].ToString()" />
+    @*<div style="display:none;">
+            <input type="text" placeholder="Cusine Type*" id="txtCusineType" />
+        </div>*@
+    <div class="right-innerarea">
+        <div class="page-title clearfix">
+            <div class="col-xs-12 col-sm-8 col-md-6 col-lg-6 client-img">
+                <div class="title-img">
+                    @*<img src="../content/images/kfc.png" alt="KFC" />*@
+                    <img src="" class="imgCompany" alt="KFC" />
+                    @if (HttpContext.Current.Session["RoleID"].ToString() == "2")
+                    {
+                        <a class="edit-img" href="#uploadimage-popup" data-toggle="modal" title="Edit">Edit</a>
+                    }
+                    else
+                    {
+                    }
+
+                </div>
+                @if (HttpContext.Current.Session["RoleID"].ToString() == "2")
+                {
+                    <h2>Company Details</h2>
+                }
+                else
+                {
+                    <h2>Branch Details</h2>
+                }
+            </div>
+
+
+            <ul class="create-offlist editlist">
+
+                @if (HttpContext.Current.Session["RoleID"].ToString() == "2")
+            {
+                    <li class="edit-icon"><a href="#" id="btnEdit" title="Edit">Edit</a></li>
+                }
+                else
+                {
+                    <li class="edit-icon"><a href="#" id="btnIndEdit" title="Edit">Edit</a></li>
+                }
+
+            </ul>
+        </div>
+        @if (HttpContext.Current.Session["RoleID"].ToString() == "2")
+        {
+            <form id="frmmgUsrProfile">
+                <div class="inner-formarea">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <input type="text" placeholder="Company Name*" name="outlCompanyName" id="txtCompanyName" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <input type="text" placeholder="E-mail ID*" id="txtEmailID" name="outlEmailID" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <input type="text" placeholder="First Name*" id="txtFirstName" name="outlFirstName" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <input type="text" placeholder="Last Name*" id="txtLastName" name="outlLastName" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <input type="text" placeholder="Position / Designation at Company" id="txtDesignation" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <input onkeypress="return isNumber(event)" maxlength="13" type="text" name="outlPhone" placeholder="Company Phone No*" id="txtCompanyPhoneNo" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 form-left">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 input ">
+                                    <input type="text" placeholder="Company Address Line 1" id="txtAddress1" />
+                                </div>
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 input ">
+                                    <input type="text" placeholder="Company Address Line 2" id="txtAddress2" />
+                                </div>
+                                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 input citybox">
+                                    <input type="text" placeholder="City" id="txtCity">
+                                </div>
+                                <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 input zipcodebox">
+                                    <input type="text" placeholder="Zipcode" id="txtZipCode" onkeypress="return isNumber(event)" maxlength="8" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 form-right">
+                            <div class="input ">
+                                <textarea class="placecolor" placeholder="Company Description" id="txtCompnayDescription"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="submit button-btn" id="savesection">
+                        <input class="btn-cancel" type="reset" value="cancel" id="btnClear" />
+                        <input class="btn-submit" type="button" value="Save" id="btnSave" />
+                    </div>
+                </div>
+            </form>
+        }
+        else
+        {
+
+            <form id="frmmgUsrIndividualProfile">
+                <div class="inner-formarea">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <input type="text" placeholder="Outlet Name*" disabled="disabled" id="txtOutletName" name="indOutletName" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <input type="text" placeholder="E-mail ID*" id="txtIndividualEmailID" name="indEmailID" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <input type="text" placeholder="Restaurant Name*" disabled="disabled" id="txtRestaurantName" name="indRestaurantName" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <input type="text" placeholder="Outlet Cuisine Type" required id="txtCusineType" name="CusineType" />
+                        </div>
+                    </div>
+                    <div class="row">
+
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <input type="text" placeholder="Company Phone No*" name="indPhoneNo" onkeypress="return isNumber(event)" maxlength="13" id="txtIndividualPhoneNo" />
+                        </div>
+                        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 input">
+                            <a href="#googlemap-popup" data-toggle="modal">Click Here to view Out Address in Map</a>
+                        </div>
+                    </div>
+                    <div class="submit button-btn" id="Indsavesection">
+                        <input class="btn-cancel" type="reset" value="cancel" id="btnIndClear" />
+                        <input class="btn-submit" type="button" value="Save" id="btnIndividualSave" />
+                    </div>
+                </div>
+            </form>
+        }
+    </div>
+</div>
+@*<script>
+        $(document).ready(function(){
+            winheight1 = $(document).height();
+            winheight = winheight1;
+            $('.inner-left').css('height', winheight);
+        });
+        $(window).resize(function(){
+            winheight1 = $(document).height();
+            winheight = winheight1;
+            $('.inner-left').css('height', winheight);
+        });
+    </script>*@
+<!-- upoad image popup Modal HTML start-->
+<div id="uploadimage-popup" class="modal fade signup-modal mini-modal uploadimage-modal">
+    <div class="modal-dialog">
+        <form id="frmmgGallery">
+            <div class="modal-content" style="width: 55%;">
+                <div class="upload-btn">
+                    <label class="Upload-imgarrow" for="imageUploadForm" title="Upload Property img">
+
+
+                        <input id="imageUploadForm" type="file" style="display:none;">
+                        Upload Images
+                    </label>
+                    <span class='label label-info' id="upload-file-info"></span>
+                    <input type="hidden" class="gllpImage" />
+                </div>
+                <div class="submit button-btn">
+                    <input class="btn-cancel" type="reset" data-dismiss="modal" value="cancel" />
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<!-- upoad image popup Modal HTML end-->
+<div id="googlemap-popup" class="modal fade signup-modal googlemap-modal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="google-map">
+                @*<textarea maxlength="150" id="txtAddress"></textarea>*@
+                <fieldset class="gllpLatlonPicker">
+                    <input type="text" class="gllpSearchField" />
+                    <input type="button" class="gllpSearchButton" value="search" />
+                    <br />
+                    <div class="gllpMap">Google Maps</div>
+                    @*<input type="hidden" class="gllpLatitude" value="38.01689374449758" />
+                        <input type="hidden" class="gllpLongitude" value="-95.99993930000005" />*@
+                    <input type="hidden" class="gllpLatitude" value="38.01689374449758" />
+                    <input type="hidden" class="gllpLongitude" value="-95.99993930000005" />
+                    <input type="hidden" class="gllpZoom" value="4" />
+                </fieldset>
+            </div>
+            <div class="submit button-btn mini-btn">
+                <input class="btn-cancel" type="reset" data-dismiss="modal" value="cancel" />
+            </div>
+        </div>
+    </div>
+</div>

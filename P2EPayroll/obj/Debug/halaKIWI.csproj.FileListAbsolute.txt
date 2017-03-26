@@ -1,0 +1,175 @@
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\csc.exe
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\vbc.exe
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\VBCSCompiler.exe
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\halaKIWI.dll.config
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\halaKIWI.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\halaKIWI.pdb
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Antlr3.Runtime.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Newtonsoft.Json.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Helpers.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Mvc.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Optimization.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Razor.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Webpages.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Webpages.Razor.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Unity.Mvc5.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\WebGrease.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Antlr3.Runtime.pdb
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\Newtonsoft.Json.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Optimization.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Razor.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Webpages.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Webpages.Razor.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Helpers.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\bin\System.Web.Mvc.xml
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\obj\Debug\halaKIWI.dll
+C:\Users\HI\Documents\Visual Studio 2015\Projects\halaKIWI\halaKIWI\obj\Debug\halaKIWI.pdb
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\csc.exe
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\System.Collections.Immutable.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\System.Reflection.Metadata.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\vbc.exe
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\VBCSCompiler.exe
+E:\MyPendrive\halaKIWI\halaKIWI\bin\roslyn\VBCSCompiler.exe.config
+E:\MyPendrive\halaKIWI\halaKIWI\bin\halaKIWI.dll.config
+E:\MyPendrive\halaKIWI\halaKIWI\bin\halaKIWI.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\halaKIWI.pdb
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Antlr3.Runtime.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Dapper.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Elmah.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.Configuration.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.Web.Infrastructure.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Newtonsoft.Json.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Net.Http.Formatting.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Cors.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Helpers.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Http.Cors.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Http.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Http.WebHost.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Mvc.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Optimization.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Razor.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Webpages.Deployment.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Webpages.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Webpages.Razor.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Unity.Mvc5.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Unity.WebApi.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\WebGrease.dll
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Antlr3.Runtime.pdb
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Dapper.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.pdb
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.Configuration.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\Newtonsoft.Json.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Net.Http.Formatting.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Http.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Http.Cors.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Http.WebHost.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Optimization.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Razor.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Webpages.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Webpages.Deployment.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Webpages.Razor.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Helpers.xml
+E:\MyPendrive\halaKIWI\halaKIWI\bin\System.Web.Mvc.xml
+E:\MyPendrive\halaKIWI\halaKIWI\obj\Debug\halaKIWI.dll
+E:\MyPendrive\halaKIWI\halaKIWI\obj\Debug\halaKIWI.pdb
+E:\MyPendrive\halaKIWI\halaKIWI\obj\Debug\halaKIWI.csprojResolveAssemblyReference.cache
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\csc.exe
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\System.Collections.Immutable.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\System.Reflection.Metadata.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\vbc.exe
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\VBCSCompiler.exe
+F:\halaKIWI\halaKIWI\halaKIWI\bin\roslyn\VBCSCompiler.exe.config
+F:\halaKIWI\halaKIWI\halaKIWI\bin\halaKIWI.dll.config
+F:\halaKIWI\halaKIWI\halaKIWI\bin\halaKIWI.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\halaKIWI.pdb
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Antlr3.Runtime.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Dapper.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Elmah.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.Web.Infrastructure.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Newtonsoft.Json.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Net.Http.Formatting.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Cors.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Helpers.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Http.Cors.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Http.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Http.WebHost.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Mvc.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Optimization.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Razor.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Webpages.Deployment.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Webpages.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Webpages.Razor.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Unity.Mvc5.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Unity.WebApi.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\WebGrease.dll
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Antlr3.Runtime.pdb
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Dapper.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.Practices.ServiceLocation.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\Newtonsoft.Json.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Net.Http.Formatting.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Http.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Http.Cors.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Http.WebHost.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Optimization.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Razor.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Webpages.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Webpages.Deployment.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Webpages.Razor.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Helpers.xml
+F:\halaKIWI\halaKIWI\halaKIWI\bin\System.Web.Mvc.xml
+F:\halaKIWI\halaKIWI\halaKIWI\obj\Debug\halaKIWI.csprojResolveAssemblyReference.cache
+F:\halaKIWI\halaKIWI\halaKIWI\obj\Debug\halaKIWI.dll
+F:\halaKIWI\halaKIWI\halaKIWI\obj\Debug\halaKIWI.pdb
